@@ -1,0 +1,1041 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+body {
+    background: black;
+    color: white;
+}
+
+.bgfon{
+    width: 1440px;
+height: 2498px;
+left: -96.35px;
+top: 352px;
+} 
+
+
+
+
+.letter{
+  display: flex;
+  justify-content: space-around;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 80px;
+  list-style: none;
+  top: 150px;
+  color: #FFFFFF;
+ }
+
+#logosb {
+  margin-left: 10px;
+  height: 100px;
+  margin-top: 0px;
+  width: 100px;
+}
+#korzin{
+  height: 50px;
+ margin-top: 20px;
+}
+
+
+#Korsina{
+    position: absolute;
+    width: 217px;
+    height: 59px;
+    left: 150px;
+    top: 160px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+}
+
+#Eda1{
+    position: absolute;
+    width: 400px;
+    height: 265px;
+    left: 150px;
+    top: 259px;
+}
+
+#Forel{
+    position: absolute;
+    width: 380px;
+    height: 44px;
+    left: 590px;
+    top: 259px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+#Krest{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1180px;
+    top: 272px;
+}
+
+#Count{
+    position: absolute;
+    width: 147px;
+    height: 29px;
+    left: 590px;
+    top: 373px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#Price{
+    position: absolute;
+    width: 65px;
+    height: 29px;
+    left: 842px;
+    top: 373px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#Konech_Price{
+    position: absolute;
+    width: 220px;
+    height: 29px;
+    left: 1012px;
+    top: 373px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#Symbols1{
+    position: absolute;
+    width: 12px;
+    height: 0px;
+    left: 632px;
+    top: 437px;
+    background-color: white;
+    
+    border: 1px solid #FFFFFF;
+}
+
+#Symbols2{
+    position: absolute;
+    width: 15px;
+    height: 29px;
+    left: 656px;
+    top: 422px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+#Symbols3{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 683px;
+    top: 431px;
+}
+
+#Som1000{
+    position: absolute;
+    width: 115px;
+    height: 29px;
+    left: 817px;
+    top: 422px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#Som2000{
+    position: absolute;
+    width: 120px;
+    height: 29px;
+    left: 1049px;
+    top: 422px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+/*  */
+
+#Eda1_1{
+    position: absolute;
+width: 400px;
+height: 265px;
+left: 150px;
+top: 604px;
+}
+
+#Forel_1{
+    position: absolute;
+width: 380px;
+height: 44px;
+left: 590px;
+top: 604px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Krest_1{
+    position: absolute;
+width: 22px;
+height: 22px;
+left: 1180px;
+top: 617px;
+}
+
+#Count_1{
+    position: absolute;
+width: 147px;
+height: 29px;
+left: 590px;
+top: 718px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#Price_1{
+    position: absolute;
+width: 65px;
+height: 29px;
+left: 842px;
+top: 718px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#Konech_Price_1{
+    position: absolute;
+    width: 220px;
+    height: 29px;
+    left: 1012px;
+    top: 718px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+
+#Symbols1_1{
+    position: absolute;
+    width: 12px;
+    height: 3.2px;
+    left: 632px;
+    top: 782px;
+    background-color: white;
+    
+    border: 1px solid #FFFFFF;
+}
+
+#Symbols2_1{
+    position: absolute;
+width: 15px;
+height: 29px;
+left: 656px;
+top: 767px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+#Symbols3_1{
+    position: absolute;
+width: 12px;
+height: 12px;
+left: 683px;
+top: 776px;
+}
+
+#Som1000_1{
+    position: absolute;
+width: 115px;
+height: 29px;
+left: 817px;
+top: 767px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+
+#Som2000_1{
+    position: absolute;
+width: 120px;
+height: 29px;
+left: 1049px;
+top: 767px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+/*  */
+
+#Eda1_2{
+    position: absolute;
+width: 400px;
+height: 265px;
+left: 150px;
+top: 949px;
+
+}
+
+#Forel_2{
+    position: absolute;
+width: 380px;
+height: 44px;
+left: 590px;
+top: 949px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Krest_2{
+    position: absolute;
+width: 22px;
+height: 22px;
+left: 1180px;
+top: 962px;
+}
+
+#Count_2{
+    position: absolute;
+width: 147px;
+height: 29px;
+left: 590px;
+top: 1063px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#Price_2{
+    position: absolute;
+width: 65px;
+height: 29px;
+left: 842px;
+top: 1063px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+
+#Konech_Price_2{
+    position: absolute;
+width: 190px;
+height: 29px;
+left: 1012px;
+top: 1063px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#Symbols1_2{
+    position: absolute;
+    width: 12px;
+    height: 3.2px;
+    left: 632px;
+    top: 1127px;
+    background-color: white;
+    
+    border: 1px solid #FFFFFF;
+}
+
+#Symbols2_2{
+    position: absolute;
+width: 15px;
+height: 29px;
+left: 656px;
+top: 1112px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+#Symbols3_2{
+    position: absolute;
+width: 12px;
+height: 12px;
+left: 683px;
+top: 1121px;
+}
+
+#Som1000_2{
+    position: absolute;
+width: 115px;
+height: 29px;
+left: 817px;
+top: 1112px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#Som2000_2{
+    position: absolute;
+width: 120px;
+height: 29px;
+left: 1049px;
+top: 1112px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#All_Price{
+    position: absolute;
+width: 264px;
+height: 29px;
+left: 150px;
+top: 1314px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Som6000{
+    position: absolute;
+width: 156px;
+height: 29px;
+left: 404px;
+top: 1314px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Elements{
+    position: absolute;
+    width: 332px;
+    height: 29px;
+    left: 150px;
+    top: 1363px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+#n6{
+    position: absolute;
+width: 16px;
+height: 29px;
+left: 472px;
+top: 1363px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Square_1{
+    position: absolute;
+width: 302px;
+height: 60px;
+left: 150px;
+top: 1442px;
+
+border: 1px solid #FFFFFF;
+}
+
+#Oform_zakaz{
+    position: absolute;
+width: 232px;
+height: 24px;
+left: 200px;
+top: 1460px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+/* fsdssdfsdsdfsfdsdfsdfsfsdfsfsdfsdfsd BOTTOM BOTTOM */
+
+#Podoidet{
+    position: absolute;
+width: 443px;
+height: 44px;
+left: 150px;
+top: 1652px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+
+
+color: #FFFFFF;
+}
+
+#Eda_bottom{
+    position: absolute;
+width: 272px;
+height: 181px;
+left: 151px;
+top: 1736px;
+}
+
+#Bulgur{
+    position: absolute;
+width: 218px;
+height: 22px;
+left: 151px;
+top: 1927px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+#Opicanie{
+    position: absolute;
+width: 272px;
+height: 34px;
+left: 151px;
+top: 1959px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+#Som1000_bottom{
+    position: absolute;
+width: 77px;
+height: 20px;
+left: 151px;
+top: 2018px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+
+
+
+color: #FFFFFF;
+}
+
+#Square_bottom{
+    position: absolute;
+width: 117px;
+height: 40px;
+left: 306px;
+top: 2008px;
+
+border: 1px solid #FFFFFF;
+}
+
+#Korsina_bottom{
+    position: absolute;
+width: 87px;
+height: 17px;
+left: 321px;
+top: 2019px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+#Eda_bottom_2{
+    position: absolute;
+    width: 272px;
+    height: 181px;
+    left: 473px;
+    top: 1736px;
+}
+
+#Bulgur_2{
+    position: absolute;
+    width: 218px;
+    height: 22px;
+    left: 473px;
+    top: 1927px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+}
+
+#Opicanie_2{
+    position: absolute;
+    width: 272px;
+    height: 34px;
+    left: 473px;
+    top: 1959px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #FFFFFF;
+}
+
+#Som1000_bottom_2{
+    position: absolute;
+    width: 77px;
+    height: 20px;
+    left: 473px;
+    top: 2018px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    
+    color: #FFFFFF;
+}
+
+#Square_bottom_2{
+    position: absolute;
+    width: 117px;
+    height: 40px;
+    left: 628px;
+    top: 2008px;
+    
+    border: 1px solid #FFFFFF;
+}
+
+#Korsina_bottom_2{
+    position: absolute;
+    width: 87px;
+    height: 17px;
+    left: 643px;
+    top: 2019px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+
+
+#Eda_bottom_3{
+    position: absolute;
+    width: 272px;
+    height: 181px;
+    left: 795px;
+    top: 1736px;
+}
+
+#Bulgur_3{
+    position: absolute;
+width: 218px;
+height: 22px;
+left: 795px;
+top: 1927px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+}
+
+#Opicanie_3{
+    position: absolute;
+width: 272px;
+height: 34px;
+left: 795px;
+top: 1959px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+#Som1000_bottom_3{
+    position: absolute;
+    width: 77px;
+    height: 20px;
+    left: 795px;
+    top: 2018px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    
+    color: #FFFFFF;
+}
+
+#Square_bottom_3{
+    position: absolute;
+width: 117px;
+height: 40px;
+left: 950px;
+top: 2008px;
+
+border: 1px solid #FFFFFF;
+}
+
+#Korsina_bottom_3{
+    position: absolute;
+    width: 87px;
+    height: 17px;
+    left: 965px;
+    top: 2019px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;    
+}
+
+
+
+#Eda_bottom_4{
+    position: absolute;
+    width: 272px;
+    height: 181px;
+    left: 1117px;
+    top: 1736px;
+}
+
+#Bulgur_4{
+    position: absolute;
+    width: 218px;
+    height: 22px;
+    left: 1117px;
+    top: 1927px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+  
+    
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+
+
+}
+
+#Opicanie_4{
+    position: absolute;
+    width: 272px;
+    height: 34px;
+    left: 1117px;
+    top: 1959px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #FFFFFF;
+}
+
+#Som1000_bottom_4{
+    position: absolute;
+    width: 77px;
+    height: 20px;
+    left: 1117px;
+    top: 2018px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    
+    color: #FFFFFF;
+}
+
+#Square_bottom_4{
+    position: absolute;
+    width: 117px;
+    height: 40px;
+    left: 1272px;
+    top: 2008px;
+    
+    border: 1px solid #FFFFFF;
+}
+
+#Korsina_bottom_4{
+    position: absolute;
+    width: 87px;
+    height: 17px;
+    left: 1287px;
+    top: 2019px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+/* .xsaas img{
+
+    margin-top: 300px;
+    margin-left: 100px;
+    
+    }
+    
+    .saas img{
+    
+    margin-top: 300px;
+    margin-left: 50px;
+    
+    }
+    
+    .n1{
+     margin-left: 300px;
+    margin-top: 200px;
+    }
+    .n2{
+    
+      margin-left: 600px;
+      margin-top: 120px;
+    }
+    .n3{
+      margin-left: 900px;
+      margin-top: 100px;
+    
+    } */
+
+    
+    
+
+ 
